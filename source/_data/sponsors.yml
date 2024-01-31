@@ -45,5 +45,4 @@ bronze:
 
 # Partner configuration
 partner_tags:
-  - css
-  - frontend
+  - laravelday

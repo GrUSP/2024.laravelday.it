@@ -23,12 +23,12 @@ conference:
   contact_email: "laravelday@grusp.org"
   # these are for the hero section
   title_pre: ""
-  title: "laravelday 2023"
+  title: "laravelday 2024"
   city: "Verona, hotel San Marco"
-  date: 2023-11-09T09:30+01:00
+  date: 2024-11-07T09:30+01:00
   # Use the next field to override the date in the hero
   hero_date_text:
-  countdown_visible: false
+  countdown_visible: true
   countdown_days: "giorni"
   countdown_hours: "ore"
   countdown_minutes: "minuti"
@@ -38,7 +38,7 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
-  update_visible: true
+  update_visible: false
   update_is_warning: false
   update_warning_header: ""
   update_title: "Pre-party!"
@@ -53,20 +53,20 @@ conference:
   # update_link_url: "https://grusp.myspreadshop.it/laravelday?idea=62fe529a5d31a90804e6b70b"
   # update_link_label: "Scopri i nostri prodotti"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
-  cfp_open: false
+  cfp_open: true
   cfp_readmore_label: "Proponi il tuo talk"
   cfp_open_label: "Hai tempo fino al"
   cfp_open_title: "La Call For Paper è aperta!"
-  cfp_deadline: 2023-09-10T22:59+01:00
+  cfp_deadline: 2024-07-30T22:59+01:00
   cfp_register_label: "Proponi il tuo talk"
   cfp_register_aria_label: "Inviaci ora la tua proposta"
   # "general information" ("what is it?") component
   geninfo_visible: true
   geninfo_title: "Che cos'è?"
   geninfo_description: "<p>Il <strong>laravel</strong>day è la prima conferenza tutta italiana, nata dalla community per la community, che porta case study reali e best practice raccontati da persone appassionate e professioniste che usano Laravel.</p>
-  <p><strong>Giovedì 9 Novembre sarà un'intera giornata dedicata al framework PHP</strong> e al suo ecosistema di package e servizi utilizzati da migliaia di developer in tutto il mondo. Che tu abbia esperienza o sia neofita di Laravel, ti assicuriamo che i nostri talk sapranno incuriosirti!</p>
-  <p>Potrai seguire laravelday 2023 sia <strong>online</strong> che <strong>in presenza a Verona</strong>.</p>
-  <p>Il giorno dopo la conferenza (Venerdì 10 Novembre), nella stessa location, ci sarà <a href='https://vueday.it'>vueday</a>, la conferenza GrUSP dedicata a <b>Vue.js.</b> Con il biglietto per laravelday puoi avere uno <b>sconto sul biglietto per vueday!</b></p>
+  <p><strong>Giovedì 7 Novembre 2024 sarà un'intera giornata dedicata al framework PHP</strong> e al suo ecosistema di package e servizi utilizzati da migliaia di developer in tutto il mondo. Che tu abbia esperienza o sia neofita di Laravel, ti assicuriamo che i nostri talk sapranno incuriosirti!</p>
+  <p>Potrai seguire laravelday 2024 sia <strong>online</strong> che <strong>in presenza a Verona</strong>.</p>
+  <p>Il giorno dopo la conferenza (Venerdì 8 Novembre 2024), nella stessa location, ci sarà <a href='https://angularday.it'>angularday</a>, la conferenza GrUSP dedicata ad <b>Angular</b>. Con il biglietto per laravelday puoi avere uno <b>sconto sul biglietto per angularday!</b></p>
   <p>Scopri tutti i dettagli dell'evento!</p>"
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
@@ -98,7 +98,7 @@ conference:
   newsletter_legal_url: "https://mailchimp.com/legal/"
   newsletter_legal_label: "Informazioni riguardo la privacy policy di Mailchimp"
   # "speakers" component. set the first parameter to true to make it appear in home page, false means hidden
-  speakers_visible: true
+  speakers_visible: false
   speakers_title: "speaker"
   mcs_title: "MC"
   speaker_count_text:
@@ -109,11 +109,13 @@ conference:
   topics:
     - "Laravel"
     - "Design patterns"
+    - "Performance Optimization"
     - "Data layer"
     - "BackEnd"
     - "FrontEnd"
     - "Packages"
     - "CI / CD"
+    - "Testing"
   topics_payoff: "...e molto altro!"
   # "workshop" component. set the first parameter to true to make it appear in home page, false means hidden
   workshop_visible: false
@@ -148,7 +150,7 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   venue_img_credits: ""
   # Sponsors section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  sponsors_visible: true
+  sponsors_visible: false
   sponsor_title_home: "Sponsor"
   # this is for the Community partners section in home page
   community_partners: true
@@ -175,6 +177,7 @@ conference:
     2020: "2020"
     2021: "2021"
     2022: "2022"
+    2023: "2023"
   past_editions_videos_pre: "Tutti i video delle passate edizioni sono disponibili su "
   past_editions_videos_vimeo_label: "Vimeo"
   past_editions_videos_mid: " e "

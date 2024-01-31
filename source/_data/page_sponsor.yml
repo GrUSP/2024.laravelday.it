@@ -30,7 +30,7 @@ block_2:
 levels:
   level_1:
     name: Main
-    amount: 10000
+    amount: 5000
     vat_label: "(+ IVA 22%)"
     available_slots: 1
     description_1:
@@ -55,7 +55,7 @@ levels:
       - "<strong>10</strong> biglietti free per l'evento online"
   level_2:
     name: Diamond
-    amount: 5000
+    amount: 3000
     vat_label: "(+ IVA 22%)"
     available_slots: 2
     description_1:
@@ -79,7 +79,7 @@ levels:
       - "<strong>8</strong> biglietti free per l'evento online"
   level_3:
     name: Platinum
-    amount: 3000
+    amount: 1500
     vat_label: "(+ IVA 22%)"
     available_slots: 6
     description_2:
@@ -101,7 +101,7 @@ levels:
       - "<strong>6</strong> biglietti free per l'evento online"
   level_4:
     name: Gold
-    amount: 1500
+    amount: 750
     vat_label: "(+ IVA 22%)"
     available_slots: 8
     description_3:
@@ -120,7 +120,7 @@ levels:
       - "<strong>5</strong> biglietti free per l'evento online"
   level_5:
     name: Silver
-    amount: 750
+    amount: 500
     vat_label: "(+ IVA 22%)"
     available_slots: 16
     description_3:
@@ -138,7 +138,7 @@ levels:
       - "<strong>4</strong> biglietti free per l'evento online"
   level_6:
     name: Bronze
-    amount: 500
+    amount: 250
     vat_label: "(+ IVA 22%)"
     available_slots: 32
     description_5:

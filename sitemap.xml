@@ -58,14 +58,7 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/workshop/font_variabili.html</loc>
-    
-    <lastmod>2024-07-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2024.laravelday.it/welcome/cfp.html</loc>
+    <loc>https://2024.laravelday.it/welcome/where.html</loc>
     
     <lastmod>2024-07-04</lastmod>
     
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://2024.laravelday.it/welcome/coc.html</loc>
+    
+    <lastmod>2024-07-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2024.laravelday.it/welcome/cfp.html</loc>
     
     <lastmod>2024-07-04</lastmod>
     
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/welcome/where.html</loc>
+    <loc>https://2024.laravelday.it/workshop/font_variabili.html</loc>
     
     <lastmod>2024-07-04</lastmod>
     

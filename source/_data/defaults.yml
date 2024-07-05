@@ -124,20 +124,20 @@ conference:
   workshops_readmore_label: "Continua a leggere"
   workshops_register_label: "Registrati"
   # Media section in home page. set the first parameter to true to make it appear in home page, false means hidden
-  media_visible: false
-  media_pic_1: ""
-  media_pic_2: ""
-  media_pic_3: ""
-  media_pic_4: ""
+  media_visible: true
+  media_pic_1: "lanyard.jpg"
+  media_pic_2: "laravel_2.jpg"
+  media_pic_3: "phpday2.png"
+  media_pic_4: "laravel_3.jpg"
   #   playlist: if true, the iframe will be created. if false, it will not
   media_video_playlist: true
   # if `media_video_is_youtube` is `true`, the relevant playlist will be embedded via "media_video_playlist". If it is `false`, the relevant Vimeo channel will be embedded via "media_vimeo_channel"
   media_video_is_youtube: true
-  youtube_base_url: "https://www.youtube.com/embed/"
-  # vimeo_base_url: "https://vimeo.com/channels/"
-  # vimeo_url_suffix: "/embed"
+  youtube_base_url: "https://www.youtube.com/embed/videoseries?list="
+  vimeo_base_url: "https://vimeo.com/album/"
+  vimeo_url_suffix: "/embed"
   #   (embed YouTube playlist: prendere l'ID della lista dall'URL, la parte dopo '&list=', e metterla qui sotto)
-  youtube_playlist_id: "qy_0rbl9xng"
+  youtube_playlist_id: "PLWK9j6ps_unkolXsZjbWBW0q-nNH8owrf"
   #   (embed Vimeo showcase: prendere l'ID dello showcase e metterla qui sotto)
   # vimeo_showcase_id: "laravelday"
   # Location section in home page. set the first parameter to true to make it appear in home page, false means hidden

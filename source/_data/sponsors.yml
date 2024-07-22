@@ -9,34 +9,34 @@ sponsors_block_title: ""
 #     name: ""
 #     logo_filename: ""
 #     site_url: ""
-# platinum:
-#   sponsor1:
-#     name: ""
-#     logo_filename: ""
-#     site_url: ""
-# gold:
-#   sponsor1:
-#     name: "workwave"
-#     logo_filename: "workwave.svg"
-#     site_url: "https://www.workwave.com/"
-# silver:
-#   sponsor0:
-#     name: "Daruma"
-#     logo_filename: "daruma.svg"
-#     site_url: "http://www.darumahq.com/"
-#   sponsor4:
-#     name: "Madisoft"
-#     logo_filename: "madisoft.svg"
-#     site_url: "https://labs.madisoft.it"
-#   sponsor6:
-#     name: "SiteGround"
-#     logo_filename: "siteground.png"
-#     site_url: "https://www.siteground.com/"
-# bronze:
-#   sponsor2:
-#     name: "stickermule"
-#     logo_filename: "stickermule.svg"
-#     site_url: "https://mule.to/p2gc"
+platinum:
+  sponsor1:
+    name: "openAPI"
+    logo_filename: "openapi.svg"
+    site_url: "https://openapi.it/"
+gold:
+  sponsor1:
+    name: "beliven"
+    logo_filename: "beliven.svg"
+    site_url: "https://beliven.com/"
+  sponsor2:
+    name: "workwave"
+    logo_filename: "workwave.svg"
+    site_url: "https://www.workwave.com/"
+silver:
+  sponsor0:
+    name: "Daruma"
+    logo_filename: "daruma.svg"
+    site_url: "http://www.darumahq.com/"
+bronze:
+  sponsor1:
+    name: "PostPickr"
+    logo_filename: "postpickr.svg"
+    site_url: "https://www.postpickr.com/"
+  sponsor2:
+    name: "stickermule"
+    logo_filename: "stickermule.svg"
+    site_url: "https://www.stickermule.com/it/adesivi-personalizzati"
 # diversity:
 #   sponsor1:
 #     name: "S"

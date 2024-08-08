@@ -53,7 +53,7 @@ conference:
   # update_link_url: "https://grusp.myspreadshop.it/laravelday?idea=62fe529a5d31a90804e6b70b"
   # update_link_label: "Scopri i nostri prodotti"
   # "call for papers" component. set the first parameter to true to make it appear in home page, false means hidden
-  cfp_open: true
+  cfp_open: false
   cfp_readmore_label: "Proponi il tuo talk"
   cfp_open_label: "Hai tempo fino al"
   cfp_open_title: "La Call For Paper è aperta!"

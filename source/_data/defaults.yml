@@ -38,13 +38,13 @@ conference:
   # image credits (l'esempio è per la hero del CSS Day!)
   # hero_img_credits: "Image by Gianni Careddu - Own work, <a href='https://commons.wikimedia.org/w/index.php?curid=74821344 target='_blank' rel='noopener noreferrer'>CC BY-SA 4.0</a>"
   # "update" component. set the first parameter to true to make it appear in home page, false means hidden
-  update_visible: false
+  update_visible: true
   update_is_warning: false
   update_warning_header: ""
   update_title: "Pre-party!"
-  update_description: "Un evento online per presentare la conferenza. Appuntamento su YouTube Mercoledì 11 Ottobre alle 21"
-  update_link_url: "https://youtube.com/live/3pwSDFSRUtc"
-  update_link_label: "Rivedi la diretta"
+  update_description: "Un evento online per presentare la conferenza. Appuntamento su YouTube Mercoledì 2 Ottobre 2024, alle 21"
+  update_link_url: "https://www.youtube.com/c/grusp"
+  update_link_label: "Partecipa alla diretta"
   # update_visible: true
   # update_is_warning: false
   # update_warning_header: ""
@@ -66,8 +66,8 @@ conference:
   geninfo_description: "<p>Il <strong>laravel</strong>day è la prima conferenza tutta italiana, nata dalla community per la community, che porta case study reali e best practice raccontati da persone appassionate e professioniste che usano Laravel.</p>
   <p><strong>Giovedì 7 Novembre 2024 sarà un'intera giornata dedicata al framework PHP</strong> e al suo ecosistema di package e servizi utilizzati da migliaia di developer in tutto il mondo. Che tu abbia esperienza o sia neofita di Laravel, ti assicuriamo che i nostri talk sapranno incuriosirti!</p>
   <p>Potrai seguire laravelday 2024 sia <strong>online</strong> che <strong>in presenza a Verona</strong>.</p>
-  <p>Il giorno dopo la conferenza (Venerdì 8 Novembre 2024), nella stessa location, ci sarà <a href='https://angularday.it'>angularday</a>, la conferenza GrUSP dedicata ad <b>Angular</b>. Con il biglietto per laravelday puoi avere uno <b>sconto sul biglietto per angularday!</b></p>
-  <p>Scopri tutti i dettagli dell'evento!</p>"
+  <p><b>Venerdì 8 Novembre 2024</b>, il giorno dopo la conferenza, nella stessa location, puoi partecipare al <b>workshop</b> <a href='https://www.laravelday.it/workshop/laravel_pulse.html'>'Ottimizzare le Prestazioni con Laravel Pulse: Dati, Metriche e Visualizzazione'</a> con Roberto Gallea."
+
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
   geninfo_scholarships_label: "Scholarship"
@@ -118,7 +118,7 @@ conference:
     - "Testing"
   topics_payoff: "...e molto altro!"
   # "workshop" component. set the first parameter to true to make it appear in home page, false means hidden
-  workshop_visible: false
+  workshop_visible: true
   workshops_title: "workshop"
   workshops_tickets_label: "Acquista i biglietti"
   workshops_readmore_label: "Continua a leggere"

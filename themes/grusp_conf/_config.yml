@@ -16,8 +16,8 @@ menu:
 
 # workshops submenu (comment out if only one workshop: add items for multiple workshops)
 workshop_submenu:
-   workshop_TDD: TDD con Laravel
-   workshop_laravel-vue: Laravel Vue SPA
+   laravel_pulse: "Ottimizzare le Prestazioni con Laravel Pulse: Dati, Metriche e Visualizzazione"
+
 
 # welcome submenu
 welcome_submenu:

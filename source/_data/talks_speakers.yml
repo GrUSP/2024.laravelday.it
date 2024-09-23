@@ -284,7 +284,7 @@ days:
   </ul>"
         talk_video_url:
         speakers:
-          speaker_1: *roberto_negro
+          speaker_1: *enrico_de_lazzari
       talk_roberto_negro:
         item_type: "talk"
         track: *track_7

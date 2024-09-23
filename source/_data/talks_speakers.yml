@@ -1,5 +1,5 @@
 # NB impostare a `true` per generare la pagina, a `false` per NON generarla
-generate_schedule_page: false
+generate_schedule_page: true
 schedule_under_construction_title: "Schedule under construction"
 schedule_under_construction_description: "We are still defining the schedule. Please be patient"
 
@@ -216,8 +216,8 @@ days:
       talk_christian_nastasi:
         item_type: "talk"
         track: *track_1
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime:
         talk_title: "La vita oltre i microservices: Monoliti modulari in Laravel"
         talk_description: "Negli ultimi anni, l'architettura a microservizi è diventata una scelta popolare per lo sviluppo di applicazioni complesse, spesso considerata la soluzione a ogni problema. Ma è veramente così? O esiste un'altra via?<br/>Per molti progetti, adottare i microservizi equivale a voler schiacciare le mosche con un cannone. Questo approccio introduce una serie di complessità aggiuntive di cui spesso non si tiene conto, e un'applicazione errata e un cattivo design possono amplificare problemi che prima erano contenuti all'interno del sistema.<br/>Una corretta suddivisione del sistema è fondamentale. Fatto questo, un approccio a monolite modulare può offrire vantaggi significativi in termini di semplicità, manutenibilità e performance, rappresentando anche uno step intermedio ideale per un eventuale passaggio futuro a un paradigma distribuito.<br/>In questo talk esploreremo come sfruttare al meglio Laravel per costruire applicazioni modulari. Analizzeremo le strategie per organizzare il codice in moduli ben definiti, mantenendo la giusta separazione e facilitando l'evoluzione e la manutenzione del progetto. Scopriremo come ottenere un equilibrio tra la coesione del monolite e la flessibilità tipica dei microservizi."
         talk_video_url:
@@ -226,8 +226,8 @@ days:
       talk_roberto_gallea:
         item_type: "talk"
         track: *track_2
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Check-up cardiologico per la tua app. Pulse or not?"
         talk_description: "Nel panorama competitivo dello sviluppo web moderno, le prestazioni delle applicazioni giocano un ruolo cruciale nel successo di un progetto. Laravel, con la sua robusta architettura e la vasta gamma di strumenti integrati, offre un framework potente per lo sviluppo rapido di applicazioni web. Tuttavia, garantire che queste applicazioni siano anche efficienti e scalabili richiede un'attenzione costante alle performance.<br/>In questo intervento, esploreremo in profondità l'utilizzo di Laravel Pulse, un innovativo pacchetto di monitoraggio delle prestazioni, per ottimizzare le nostre applicazioni Laravel. Partendo dalle basi dell'installazione e configurazione di Pulse, passeremo ad analizzare i meccanismi interni dello strumento, fornendo una comprensione dettagliata di come raccoglie e processa i dati di performance. Vedremo come Pulse integra il monitoraggio delle richieste HTTP, l'analisi delle query al database e il tracciamento degli eventi per fornire un quadro completo delle performance dell'applicazione.<br/>Attraverso una serie di best practices e casi studio reali, vedremo come utilizzare Pulse per migliorare drasticamente le prestazioni delle applicazioni Laravel. Analizzeremo esempi concreti di identificazione e risoluzione di colli di bottiglia, ottimizzazione delle risorse e miglioramento del codice.<br/>I partecipanti apprenderanno:
 <ul>
@@ -243,8 +243,8 @@ days:
       talk_alberto_peripolli:
         item_type: "talk"
         track: *track_3
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Enum fantastici e dove trovarli"
         talk_description: "Gli enum sono stati introdotti in php relativamente tardi con PHP 8.1, per questo motivo molti non li conoscono o non li utilizzano al massimo delle potenzialità. Per questo spiegherò cosa sono, come si utilizzano e che limiti ci sono attualmente. Porterò esempi pratici di utilizzo e andremo vedere come superare i limiti degli enum utilizzando alcuni pacchetti di mia creazione."
         talk_video_url:
@@ -253,8 +253,8 @@ days:
       talk_giacomo_fabbian:
         item_type: "talk"
         track: *track_4
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Real-Time Laravel Showdown: Laravel Reverb vs. Pusher"
         talk_description: "Questo talk esplorerà due possibili soluzioni per aggiungere funzionalità in tempo reale alle applicazioni Laravel: Laravel Echo con Laravel Reverb e Pusher. Verranno esaminate la loro architettura, facilità di integrazione, prestazioni, scalabilità e costi per aiutarti a scegliere la soluzione più adatta alle tue esigenze."
         talk_video_url:
@@ -263,8 +263,8 @@ days:
       talk_emanuele_fornasier:
         item_type: "talk"
         track: *track_5
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Integrare funzionalità moderne in un'applicazione legacy attraverso API: un caso reale."
         talk_description: "Capita di dover aggiungere nuove funzionalità ad un applicativo legacy: il rewrite non è un'opzione contemplata, la codebase è (super) custom, il nostro framework preferito non è disponibile: che fare?<br/>In questo talk mostrerò,  attraverso un esempio reale, come inserire funzionalità moderne in una codebase legacy, utilizzando una seconda applicazione API-only basata su Laravel. "
         talk_video_url:
@@ -273,8 +273,8 @@ days:
       talk_enrico_de_lazzari:
         item_type: "talk"
         track: *track_6
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Prodotto in Laravel? No problem!"
         talk_description: "Se stai cercando di sviluppare un prodotto B2B, sei nel posto giusto! In questo talk, ti mostrerò come usare Laravel per creare applicazioni multi-tenant che siano robuste, scalabili e pronte per il mercato. Ecco di cosa parleremo:<br/>
         <ul>
@@ -284,12 +284,12 @@ days:
   </ul>"
         talk_video_url:
         speakers:
-          speaker_1: *enrico_de_lazzari
+          speaker_1: *roberto_negro
       talk_roberto_negro:
         item_type: "talk"
         track: *track_7
-        start_datetime: 2024-11-07T10:25+02:00
-        end_datetime: 2024-11-07T11:05+02:00
+        start_datetime: 
+        end_datetime: 
         talk_title: "Conta fino a 10 prima di scegliere il tuo frontend per Laravel"
         talk_description: "Nuovo progetto Laravel, solito dilemma: cosa utilizzerò questa volta per costruire il frontend? Vedremo lo stato dell'arte dei frontend per Laravel, analizzeremo nel dettaglio come funzionano per capirne le differenze, valuteremo i pro e i contro, e cercheremo di far chiarezza su quale soluzione risponde meglio ai vari use-case proposti. Anche perchè, una volta fatta la scelta, tornare sui propri passi diventa spesso (quasi) impossibile!"
         talk_video_url:

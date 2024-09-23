@@ -12,7 +12,8 @@ conference:
   online_location_info: "La conferenza si svolge da remoto"
 
   # menu and general params
-  menu_buy_tickets_label: "Partecipa"
+  menu_buy_tickets_label: "Compra il biglietto"
+  buy_tickets_url: "https://ti.to/grusp/laravelday-2024"
   # additional info for microdata / schema.org
   md_city: "Verona"
   md_province: "VR"
@@ -98,7 +99,7 @@ conference:
   newsletter_legal_url: "https://mailchimp.com/legal/"
   newsletter_legal_label: "Informazioni riguardo la privacy policy di Mailchimp"
   # "speakers" component. set the first parameter to true to make it appear in home page, false means hidden
-  speakers_visible: false
+  speakers_visible: true
   speakers_title: "speaker"
   mcs_title: "MC"
   speaker_count_text:
@@ -160,7 +161,7 @@ conference:
   social_follow: "Seguici su"
   social_fb_url: "https://www.facebook.com/laravelday"
   social_linkedin_url: "https://www.linkedin.com/company/grusp/"
-  social_twitter_url: "https://twitter.com/laraveldayit"
+  social_twitter_url: "https://x.com/laraveldayit"
   social_vimeo_url: "https://vimeo.com/channels/laravelday"
   social_youtube_url: "https://www.youtube.com/c/grusp"
   social_instagram_url: "https://www.instagram.com/grusp_/"

@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/welcome/where.html</loc>
+    <loc>https://2024.laravelday.it/workshop/laravel_pulse.html</loc>
     
     <lastmod>2024-09-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/workshop/laravel_pulse.html</loc>
+    <loc>https://2024.laravelday.it/welcome/where.html</loc>
     
     <lastmod>2024-09-23</lastmod>
     
@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/tickets/index.html</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://2024.laravelday.it/welcome/index.html</loc>
     
     <lastmod>2024-09-23</lastmod>
@@ -51,21 +44,14 @@
   </url>
   
   <url>
+    <loc>https://2024.laravelday.it/tickets/index.html</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://2024.laravelday.it/workshop/index.html</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2024.laravelday.it/welcome/scholarships.html</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2024.laravelday.it/welcome/cfp.html</loc>
     
     <lastmod>2024-09-23</lastmod>
     
@@ -86,7 +72,14 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/sponsor/index.html</loc>
+    <loc>https://2024.laravelday.it/welcome/scholarships.html</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2024.laravelday.it/welcome/cfp.html</loc>
     
     <lastmod>2024-09-23</lastmod>
     
@@ -94,6 +87,13 @@
   
   <url>
     <loc>https://2024.laravelday.it/schedule/index.html</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2024.laravelday.it/sponsor/index.html</loc>
     
     <lastmod>2024-09-23</lastmod>
     

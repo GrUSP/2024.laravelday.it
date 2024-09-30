@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://2024.laravelday.it/workshop/workshop_2.html</loc>
+    <loc>https://2024.laravelday.it/welcome/about.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -16,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/schedule/index.html</loc>
+    <loc>https://2024.laravelday.it/workshop/workshop_2.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://2024.laravelday.it/tickets/index.html</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://2024.laravelday.it/welcome/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -51,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/tickets/index.html</loc>
+    <loc>https://2024.laravelday.it/welcome/scholarships.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     
@@ -72,20 +79,6 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/welcome/about.html</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2024.laravelday.it/welcome/scholarships.html</loc>
-    
-    <lastmod>2024-09-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://2024.laravelday.it/welcome/where.html</loc>
     
     <lastmod>2024-09-30</lastmod>
@@ -94,6 +87,13 @@
   
   <url>
     <loc>https://2024.laravelday.it/welcome/safety.html</loc>
+    
+    <lastmod>2024-09-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2024.laravelday.it/schedule/index.html</loc>
     
     <lastmod>2024-09-30</lastmod>
     

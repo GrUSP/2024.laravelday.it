@@ -322,8 +322,9 @@ Vi portiamo la nostra esperienza diretta con una case history che dimostra quant
         track: *track_1
         start_datetime: 2024-11-07T17:20+01:00
         end_datetime: 2024-11-07T17:50+01:00
-        talk_title: "Panel"
-        talk_description: "Una chiacchierata per concludere la giornata."
+        talk_title: "Panel sulla Formazione in ambito Laravel"
+        talk_description: "Filippo Donadoni, Roberto Butti e Roberto Gallea saranno invitati ad un panel moderato da Alessandro Cappellozza: un'occasione di discussione e coinvolgimento in cui parleremo di formazione. 
+Le prime fasi di apprendimento, l’aggiornamento continuo, l’uso dell’IA e molto altro..."
         talk_video_url:
         speakers:
           speaker_1: *alessandro

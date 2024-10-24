@@ -43,9 +43,9 @@ conference:
   update_is_warning: false
   update_warning_header: ""
   update_title: "Pre-party!"
-  update_description: "Un evento online per presentare la conferenza. Appuntamento su YouTube Mercoledì 2 Ottobre 2024, alle 21"
+  update_description: "L'ormai consueto evento in diretta streaming per presentare la conferenza. "
   update_link_url: "https://www.youtube.com/c/grusp"
-  update_link_label: "Partecipa alla diretta"
+  update_link_label: "Riguarda l'evento"
   # update_visible: true
   # update_is_warning: false
   # update_warning_header: ""
@@ -102,7 +102,7 @@ conference:
   speakers_visible: true
   speakers_title: "speaker"
   mcs_title: "MC"
-  speaker_count_text:
+  speaker_count_text: "Quest'anno sul palco di laravelday:"
   # "topics" component. set the first parameter to true to make it appear in home page, false means hidden
   topics_visible: true
   topics_title: "Argomenti e temi"

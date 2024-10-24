@@ -30,10 +30,18 @@ silver:
     site_url: "http://www.darumahq.com/"
 bronze:
   sponsor1:
+    name: "Atrio"
+    logo_filename: "atrio.svg"
+    site_url: "https://www.atrio.it"
+  sponsor2:
+    name: "OffLine"
+    logo_filename: "offline.svg"
+    site_url: "https://offlineagency.it/"
+  sponsor3:
     name: "PostPickr"
     logo_filename: "postpickr.svg"
     site_url: "https://www.postpickr.com/"
-  sponsor2:
+  sponsor4:
     name: "stickermule"
     logo_filename: "stickermule.svg"
     site_url: "https://www.stickermule.com/it/adesivi-personalizzati"

@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/sponsor/index.html</loc>
-    
-    <lastmod>2024-10-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://2024.laravelday.it/schedule/index.html</loc>
     
     <lastmod>2024-10-30</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://2024.laravelday.it/tickets/index.html</loc>
+    <loc>https://2024.laravelday.it/sponsor/index.html</loc>
     
     <lastmod>2024-10-30</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://2024.laravelday.it/talks_speakers/index.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2024.laravelday.it/tickets/index.html</loc>
     
     <lastmod>2024-10-30</lastmod>
     

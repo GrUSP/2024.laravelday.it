@@ -257,21 +257,17 @@ Vi portiamo la nostra esperienza diretta con una case history che dimostra quant
         speakers:
           speaker_1: *roberto_negro
 
-      talk_enrico_de_lazzari:
+
+      talk_alberto_peripolli:
         item_type: "talk"
         track: *track_1
         start_datetime: 2024-11-07T12:10+01:00
         end_datetime: 2024-11-07T12:50+01:00
-        talk_title: "Prodotto in Laravel? No problem!"
-        talk_description: "Se stai cercando di sviluppare un prodotto B2B, sei nel posto giusto! In questo talk, ti mostrerò come usare Laravel per creare applicazioni multi-tenant che siano robuste, scalabili e pronte per il mercato. Ecco di cosa parleremo:<br/>
-        <ul>
-  <li>Architettura del Codice: Capiremo come scrivere codice che gestisca più clienti all’interno della stessa applicazione senza impazzire. Parleremo di come strutturare il codice per mantenere sicurezza e isolamento dei dati, con esempi concreti.</li>
-  <li>Gestione dell’Infrastruttura: Vedremo insieme i diversi modi per gestire l’infrastruttura delle applicazioni multi-tenant. Ti aiuterò a capire i pro e i contro di ciascun approccio e ti darò qualche consiglio su quale strategia scegliere in base alle esigenze del tuo progetto.</li>
-  <li>Autenticazione, Crittografia e tanto altro: Faremo un tuffo nelle funzionalità fondamentali come la gestione di diverse politiche di autenticazione e la pseudo anonimizzazione dei dati a DB. Ti mostrerò le librerie più popolari e le best practice per implementare soluzioni sicure e scalabili..</li>
-  </ul>"
+        talk_title: "Enum fantastici e dove trovarli"
+        talk_description: "Gli enum sono stati introdotti in php relativamente tardi con PHP 8.1, per questo motivo molti non li conoscono o non li utilizzano al massimo delle potenzialità. Per questo spiegherò cosa sono, come si utilizzano e che limiti ci sono attualmente. Porterò esempi pratici di utilizzo e andremo vedere come superare i limiti degli enum utilizzando alcuni pacchetti di mia creazione."
         talk_video_url:
         speakers:
-          speaker_1: *enrico_de_lazzari
+          speaker_1: *alberto_peripolli
 
 
       talk_christian_nastasi:
@@ -308,17 +304,21 @@ Vi portiamo la nostra esperienza diretta con una case history che dimostra quant
         speakers:
           speaker_1: *emanuele_fornasier
 
-
-      talk_alberto_peripolli:
+      talk_enrico_de_lazzari:
         item_type: "talk"
         track: *track_1
         start_datetime: 2024-11-07T16:50+01:00
         end_datetime: 2024-11-07T17:20+01:00
-        talk_title: "Enum fantastici e dove trovarli"
-        talk_description: "Gli enum sono stati introdotti in php relativamente tardi con PHP 8.1, per questo motivo molti non li conoscono o non li utilizzano al massimo delle potenzialità. Per questo spiegherò cosa sono, come si utilizzano e che limiti ci sono attualmente. Porterò esempi pratici di utilizzo e andremo vedere come superare i limiti degli enum utilizzando alcuni pacchetti di mia creazione."
+        talk_title: "Prodotto in Laravel? No problem!"
+        talk_description: "Se stai cercando di sviluppare un prodotto B2B, sei nel posto giusto! In questo talk, ti mostrerò come usare Laravel per creare applicazioni multi-tenant che siano robuste, scalabili e pronte per il mercato. Ecco di cosa parleremo:<br/>
+        <ul>
+  <li>Architettura del Codice: Capiremo come scrivere codice che gestisca più clienti all’interno della stessa applicazione senza impazzire. Parleremo di come strutturare il codice per mantenere sicurezza e isolamento dei dati, con esempi concreti.</li>
+  <li>Gestione dell’Infrastruttura: Vedremo insieme i diversi modi per gestire l’infrastruttura delle applicazioni multi-tenant. Ti aiuterò a capire i pro e i contro di ciascun approccio e ti darò qualche consiglio su quale strategia scegliere in base alle esigenze del tuo progetto.</li>
+  <li>Autenticazione, Crittografia e tanto altro: Faremo un tuffo nelle funzionalità fondamentali come la gestione di diverse politiche di autenticazione e la pseudo anonimizzazione dei dati a DB. Ti mostrerò le librerie più popolari e le best practice per implementare soluzioni sicure e scalabili..</li>
+  </ul>"
         talk_video_url:
         speakers:
-          speaker_1: *alberto_peripolli
+          speaker_1: *enrico_de_lazzari
 
       panel:
         item_type: "talk"
